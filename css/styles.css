@@ -1,0 +1,96 @@
+body {
+    font-family: Roboto, sans-serif;
+    background-color: #6f93a9;
+    color: #333333;
+    overflow-x: hidden;
+}
+
+p{
+    color:#fff;
+}
+.hdr{
+    background-color: #ff3353;
+    height: 200px;
+
+}
+
+.slim-hdr {
+    background-color: #ff3353;
+    min-height: 60px; /* Adjust as needed */
+    padding: 10px 0;
+  }
+
+.logosize{
+    height: 175px;
+    width: 175px;
+    padding: 20px;
+}
+
+.mainpic{
+    height: 500px;
+    width: 550px;
+}
+
+.featuredpic{
+    max-height: 300px;
+}
+
+.featuredpic:hover {
+    opacity: 75%;
+}
+
+.aboutpic{
+    max-height: 500px;
+}
+
+.prnav a{
+    font-family: Roboto, sans-serif;
+    color: #e6c4c4;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.prnav a:hover{
+    color: #494646;
+}
+
+.smspacer{
+    height: 20px;
+}
+
+.bgspacer{
+    height: 50px;
+}
+
+
+button {
+    background-color: #F1C40F;
+    border: 3px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #E67E22;
+}
+
+.footer{
+    background-color: #d1859a;
+    color: #fff
+}
+
+.footernav a{
+    color:#1846b9;
+}
+
+.footernav a:hover{
+    color:#788ede
+}
+
+.rightsres{
+    background-color: #600d34;
+    color:#fff
+}
+
